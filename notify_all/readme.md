@@ -11,12 +11,12 @@ Install both the app and the driver
 ### Import the app code
 - Go to `Apps Code` from the app menu and press `New App`
 - Press `Import`
-- Type `<fill in url>` in the URL textbox
+- Type `https://raw.githubusercontent.com/johnwana/hubitat/master/notify_all/notify_all_app.groovy` in the URL textbox
 - Press `Save`
 ### Import the driver code
 - Go to `Drivers Code` from the app menu and press `New Driver`
 - Press `Import`
-- Type `<fill in url>` in the URL textbox
+- Type `https://raw.githubusercontent.com/johnwana/hubitat/master/notify_all/notify_all_device.groovy` in the URL textbox
 - Press `Save`
 ### Add the app
 - Go to `Apps` from the app menu and press `Add User App`

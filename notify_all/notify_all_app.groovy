@@ -6,8 +6,7 @@ definition(
     iconUrl: "",
     iconX2Url: "",
     iconX3Url: "",
-    // TODO: fill importUrl
-	importUrl: "https://github.com/johnwana",
+	importUrl: "https://raw.githubusercontent.com/johnwana/hubitat/master/notify_all/notify_all_app.groovy",
 )
 
 preferences {
